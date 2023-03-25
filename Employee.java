@@ -28,6 +28,7 @@ public class Employee{
        for (int i=0;i<e.length;i++){
             System.out.println(e[i]);
             //System.out.println(e[i].id);
+            System.out.println("memory back....");
        }
 
 		
